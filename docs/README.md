@@ -1,13 +1,11 @@
-<!-- <img src="https://github.com/user-attachments/assets/35bfded5-3f21-46b5-91f7-014f5a09fac3" width=200 /> -->
-
-<img src="https://github.com/user-attachments/assets/46a5c546-7e9b-42c7-87f4-bc8defe674e0" width=250 />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a0a844c8-f8b2-40ae-8d6a-78722574cacf" />
 
 
 # DuckDB HTTP Server Extension
 This extension transforms **DuckDB** instances into tiny multi-player **HTTP OLAP API** services.<br>
 Supports Authentication _(Basic Auth or X-Token)_ and includes the _play_ SQL user interface.
 
-The extension goal is to replace the functionality currently offered by [quackpipe](https://github.com/metrico/quackpipe)
+> This DuckDB extension was created by [Query.Farm](https://query.farm/), where we develop and maintain many extensions that expand DuckDB’s capabilities by connecting it to new data sources, formats, and features. You can explore our full collection at [Query.Farm](https://query.farm/)
 
 ### Features
 
