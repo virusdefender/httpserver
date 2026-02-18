@@ -229,7 +229,6 @@ void ResultSerializer::SerializeValue( // NOLINT(*-no-recursion)
 	case LogicalTypeId::VALIDITY:
 	case LogicalTypeId::AGGREGATE_STATE:
 	case LogicalTypeId::LAMBDA:
-	case LogicalTypeId::USER:
 	case LogicalTypeId::ANY:
 	case LogicalTypeId::UNKNOWN:
 	case LogicalTypeId::INVALID:
